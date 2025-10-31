@@ -1,8 +1,8 @@
 # Projektdokumentation
 
-**Navn:** 
+**Navn:*Shamima Akter* 
 
-**Hold:** WUxx
+**Hold:** WU14
 
 **Uddannelse:** Webudvikler
 
@@ -13,14 +13,12 @@
 
 ## Teknologier
 
--   HTML
--   CSS
--   JavaScript
--   Webpack
--	Jest
--   ...
-
----
+-   HTML (structure)
+* JavaScript (logic / data collection)
+* Vite (build system)
+* Sass (css preprocessor)
+* Vitest (testing)
+* GitHub / Netlify (host)
 
 
 
